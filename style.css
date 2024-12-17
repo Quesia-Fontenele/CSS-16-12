@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+MX+Guides&display=swap');
+p{
+    font-size: 24px;
+}
+.paragrafo{
+    font-size: 50px;
+    color: antiquewhite;
+    background-color: grey;
+    font-family: "Playwrite MX Guides", cursive;
+    line-height: 50px;
+    text-align: justify;
+    text-transform: lowercase;
+}
+#unico {
+    font-size: 12px;
+    color: white;
+    line-height: 50px;
+    font-family: "Playwrite MX Guides", cursive;
+    background-color: black;
+}
+a{
+    color: blue;
+    text-decoration: none;
+}
